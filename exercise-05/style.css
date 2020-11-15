@@ -1,0 +1,18 @@
+#wrapper {
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  background: #BDBDBD;
+  overflow: hidden;
+}
+#sidebar {
+  width:200px;
+  background: #999;
+  height: 100vh;
+  float: inline-end;
+}
+#content {
+  width: 100%;
+  background: #363;
+  float: inline-end;
+}
